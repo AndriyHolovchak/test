@@ -7,3 +7,6 @@ in my branch
 =======
 in my branch1
 >>>>>>> development
+
+
+add new line
