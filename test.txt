@@ -1,12 +1,2 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-1cfvd
-=======
-in my branch
->>>>>>> development
-=======
-in my branch1
->>>>>>> development
-
-
+1
 add new line
